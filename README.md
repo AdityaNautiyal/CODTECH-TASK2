@@ -1,4 +1,16 @@
-# vuln_scan
+**Name:** ADITYA NAUTIYAL
+
+**Company:** CODTECH IT SOLUTIONS
+
+**Id:** CT6WDS213
+
+**Domain:** Cyber Security
+
+**Duration:** 10Th JUNE 2024 to 22Nd JULY 2024
+
+**Mentor:** SRAVANI GOUNI
+
+# Project: vulnerability scanner
 This Python script scans open ports on a given IP or web address and detects outdated software versions and common web server misconfigurations. It checks for SSL/TLS availability, important security headers, and directory indexing. The script is customizable, with verbose mode for detailed output.
 
 ### Script Specifications: Open Port Scanner and Web Server Misconfiguration Detector
