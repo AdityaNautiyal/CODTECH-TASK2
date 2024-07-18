@@ -67,6 +67,8 @@ This Python script scans open ports on a given IP or web address and detects out
   ```sh
   pip install requests packaging
   ```
+#### Execution 
+![screenshot](ss2.jpg)
 
 #### Limitations:
 - The script performs basic checks and might not detect all security issues or misconfigurations.
